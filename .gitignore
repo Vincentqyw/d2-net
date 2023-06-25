@@ -2,7 +2,6 @@ __pycache__
 .vscode
 checkpoints*
 train_vis
-models
 log.txt
 hpatches_sequences/hseq.pdf
 hpatches_sequences/hseq-top.pdf
